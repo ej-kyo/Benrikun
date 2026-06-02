@@ -61,17 +61,15 @@
 
 | # | 功能 | 輸入 | 輸出 | 狀態 |
 |---|------|------|------|------|
-| 1 | [Excel + Word 大批文件產製](#1-excel--word-大批文件產製) | Word 範本 + Excel 名單 | 大批 Word | ✅ |
-| 2 | [Word 大批轉檔 > PDF](#2-word-大批轉檔--pdf) | Word 目錄 | PDF（可加密） | ✅ |
-| 3 | [Word 大批失效超鏈結檢查](#3-word-大批失效超鏈結檢查) | Word 目錄 | 連結檢查報表 | ✅ |
-| 4 | [Word 大批頁數統計](#4-word-大批頁數統計) | Word 目錄 | 頁數統計表 | ✅ |
-| 5 | [PowerPoint 大批合併 > PPTX](#5-powerpoint-大批合併--pptx) | 簡報目錄 | 單一合併 PPTX | ✅ |
-| 6 | [PowerPoint 大批轉檔 > PDF](#6-powerpoint-大批轉檔--pdf) | 簡報目錄 | PDF（可加密） | ✅ |
-| 7 | [PowerPoint 大批圖片化 > PPTX](#7-powerpoint-大批圖片化--pptx) | 簡報目錄 | 純圖片版 PPTX + 圖片集 | ✅ |
-| 8 | [PowerPoint 大批內容擷取 > Markdown](#8-powerpoint-大批內容擷取--markdown) | 簡報目錄 | Markdown + 媒體 | ✅ |
-| 9 | [Excel 依欄位分割檔案](#9-excel-依欄位分割檔案) | Excel 檔案 | 分割後 Excel | 🚧 |
-| 10 | [相片日期分目錄](#10-相片日期分目錄) | 相片目錄 | 依日期分類資料夾 | ✅ |
-| 11 | [關於](#11-關於) | — | — | ✅ |
+| 1 | Excel + Word 大批文件產製 | Word 範本 + Excel 名單 | 大批 Word | ✅ |
+| 2 | Word 大批轉檔 > PDF | Word 目錄 | PDF（可加密） | ✅ |
+| 3 | Word 大批失效超鏈結檢查 | Word 目錄 | 連結檢查報表 | ✅ |
+| 4 | Word 大批頁數統計 | Word 目錄 | 頁數統計表 | ✅ |
+| 5 | PowerPoint 大批合併 > PPTX | 簡報目錄 | 單一合併 PPTX | ✅ |
+| 6 | PowerPoint 大批轉檔 > PDF | 簡報目錄 | PDF（可加密） | ✅ |
+| 7 | PowerPoint 大批圖片化 > PPTX | 簡報目錄 | 純圖片版 PPTX + 圖片集 | ✅ |
+| 8 | PowerPoint 大批內容擷取 > Markdown | 簡報目錄 | Markdown + 媒體 | ✅ |
+| 9 | 相片日期分目錄 | 相片目錄 | 依日期分類資料夾 | ✅ |
 
 ---
 

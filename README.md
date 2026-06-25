@@ -1,4 +1,4 @@
-# 便利君 Benrikun
+# 便利君 Benrikun — 讓重複的事，一鍵了結
 
 > **一鍵搞定辦公室大批文件雜事的 Windows 桌面工具**
 > Word／PowerPoint／Excel／相片，目錄一選，批次完成。

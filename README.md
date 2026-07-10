@@ -10,6 +10,10 @@
 
 ---
 
+### [下載最新壓縮檔 >](https://github.com/ej-kyo/Benrikun/releases/tag/v2026-07-10)
+
+---
+
 ## 一、這是什麼？
 
 **便利君（Benrikun，日文「便利屋」之意）** 是一款專為「**大批量、重複性**」辦公室文件作業而生的桌面工具。
@@ -299,19 +303,6 @@
 │  └────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 四、技術架構
-
-| 層面 | 技術 |
-|------|------|
-| 執行框架 | .NET 10（`net10.0-windows7.0`） |
-| UI | WPF + Fluent Theme（深淺色自適應） |
-| Office 整合 | Microsoft Office COM Interop（Word／PowerPoint／Excel） |
-| PDF | PdfSharp 6.2（加密） |
-| OOXML | DocumentFormat.OpenXml 3.3（簡報結構解析） |
-| 主機服務 | Microsoft.Extensions.Hosting 9.0 |
 
 ---
 

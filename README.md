@@ -10,7 +10,12 @@
 
 ---
 
-### [下載最新壓縮檔 >](https://github.com/ej-kyo/Benrikun/releases/tag/v2026-07-10)
+### [下載最新 >](https://github.com/ej-kyo/Benrikun/releases/tag/v2026-07-10)
+解壓縮後，執行EXE (未簽章狀態下，可以使用系統權限，並同意執行)
+
+---
+
+![執行圖示1](https://github.com/ej-kyo/Benrikun/blob/main/image01.png)
 
 ---
 
